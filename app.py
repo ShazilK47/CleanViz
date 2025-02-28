@@ -93,7 +93,6 @@
 import streamlit as st
 import pandas as pd
 import os 
-import io 
 from io import BytesIO  # Allow us to convert files into Binary
 
 st.set_page_config(page_title="CleanViz", layout='wide', initial_sidebar_state="expanded")  
