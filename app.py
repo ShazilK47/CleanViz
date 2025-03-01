@@ -99,7 +99,7 @@ st.set_page_config(page_title="CleanViz", layout='wide', initial_sidebar_state="
 
 
 # App Title
-st.title("🚀 CleanViz - Data Cleaner & Converter")
+st.title("CleanViz - Data Cleaner & Converter")
 st.markdown("Transform your files between **CSV** and **Excel** formats with built-in **data cleaning** and **visualization**!")
 
 # File Upload
